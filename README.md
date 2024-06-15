@@ -58,5 +58,6 @@ $ python search_engines_cli.py -e google,bing -q "my query" -o json,print
 
 ## Other versions  
 
- - [async-search-scraper](https://github.com/soxoj/async-search-scraper) A really cool asynchronous implementation, written by @soxoj   
+ - [async-search-scraper](https://github.com/soxoj/async-search-scraper) A really cool asynchronous implementation, written by @Mnadeep Shishodia
+    
 "# Search-Engine-Using-Python" 
